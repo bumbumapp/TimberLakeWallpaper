@@ -1,9 +1,8 @@
 <resources>
-    <string name="app_name">Wallpaper</string>
+    <string name="app_name">Timber Lake Wallpapers</string>
     <string name="mobile_wallpapers">Mobile Wallpapers</string>
     <string name="find_out_your_need">Find out your need</string>
     <string name="get_started">Get started</string>
-    <string name="wallpapers">Halland Wallpapers</string>
     <string name="all">All</string>
     <string name="latest">Latest</string>
     <string name="premium">Premium</string>
@@ -13,4 +12,11 @@
     <string name="edit">Edit</string>
     <string name="home_screen">Home screen</string>
     <string name="lock_screen">Lock screen</string>
+    <string name="watch_video">Watch a video for\npremium wallpapers</string>
+
+    //ads ids
+    <string name="banner_app_id">ca-app-pub-2101785177570955~6012993409</string>
+    <string name="banner_unit_id">ca-app-pub-2101785177570955/3613867256</string>
+    <string name="inter_unit_id">ca-app-pub-2101785177570955/6786825501</string>
+    <string name="rewarded_video_id">ca-app-pub-3940256099942544/5224354917</string>
 </resources>

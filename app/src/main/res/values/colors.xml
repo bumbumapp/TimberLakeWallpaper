@@ -20,6 +20,7 @@
     <color name="home_categoryColors">#D5D5D5</color>
     <color name="icon_tint">#CFCFCF</color>
     <color name="edit_icons_color">#775B84</color>
+    <color name="ic_launcher_background">@color/white</color>
     <color name="toggle_color">#D4D4D4</color>
 
     <color name="effect1">#33221F35</color>
@@ -43,5 +44,6 @@
     <color name="effect19">#330C2733</color>
     <color name="effect20">#4D071459</color>
     <color name="yellowTextColor">#FFC107</color>
+    <color name="dark_blue">#221f35</color>
 
 </resources>
